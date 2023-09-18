@@ -1,0 +1,27 @@
+label {
+    display: block;
+    margin: 5px 0;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+  
+td, th {
+    padding: 5px;
+    border-bottom: 1px solid #aaa;
+}
+a:link {
+    text-decoration: none;
+    color: teal;
+}
+h1, h2{
+    text-align: center;
+    color: rgb(1, 37, 37);
+}
+h3 {
+    color: rgb(1, 37, 37);
+}
+.tab1 {
+    padding-left:5em;
+}
